@@ -1,0 +1,44 @@
+ img {
+                    width: 100%;
+                    height: auto;
+                  }
+                   
+                  
+.pink
+{
+    background-color: #ffcbce;
+}
+
+.large
+{
+    font-size: large;
+}
+
+.medium
+{
+    font-size: medium;
+}
+
+.small
+{
+    font-size: small;
+}
+
+.centered
+{
+    text-align: center;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.thick {
+  font-weight: bold;
+}
+
+.thicker {
+  font-weight: 900;
+}
+
+
